@@ -24,5 +24,6 @@ C:/MaProgramming/Spring/TeamProject
 	<h2> 확인용 두번째 </h2>
 	<h3> sourcetree 확인용  </h3>
 	<h3> 4_test 확인용  </h3>
+	<h3> 4_test 확인용 2 git add . 말고 직접 index.jsp 라고 써서 하나만 add 해보기</h3>
 </body>
 </html>
