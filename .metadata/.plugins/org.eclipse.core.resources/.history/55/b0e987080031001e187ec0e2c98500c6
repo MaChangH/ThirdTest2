@@ -8,7 +8,7 @@
 <script type="text/javascript" src="resources/js/go.js"></script>
 </head>
 <body>
-C:/MaProgramming/Spring/TeamProject
+C:\MaProgramming\Spring\TeamProject
 	<h1>Index</h1>
 	<a href="home.go">HOME</a>
 	<a href="board.go">BOARD</a>
@@ -19,6 +19,5 @@ C:/MaProgramming/Spring/TeamProject
 			</td>
 		</tr>
 	</table>
-	<h1>master branch protect check</h1>
 </body>
 </html>
